@@ -1,6 +1,6 @@
 "Are you sure you want to close this deck ? Your changes will not be saved." = "确定要关闭套牌？您的修改不会被保存。";
 "Are you sure you want to delete the deck %@ ?" = "确定要删除 %@ 套牌?";
-"Arena %@ %@" = "競技場 %@ %@";
+"Arena %@ %@" = "竞技场 %@ %@";
 "Cancel" = "取消";
 "Clear" = "清除";
 "Deck Manager" = "套牌管理";
@@ -60,7 +60,7 @@
 "Your game begins" = "游戏开始";
 "Victory" = "胜利";
 "Hearthstone" = "炉石传说";
-"Your opponent have conceded" = "对手也承认";
+"Your opponent have conceded" = "对手认输";
 "It's your turn to play" = "轮到你玩";
 
 /* classes */
